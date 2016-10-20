@@ -12,7 +12,7 @@ void usage(char *a)
  cout<<"Usage:\n";
  cout<<"-a: number of agents\n";
  cout<<"-m: method 0-RK 1-E 2-Implicit Euler\n";
- cout<<"-t: matrix type 0-general 1-symmetric 2-antisymmetric 3-sign symmetric 4- general-symmetric_min \n;
+ cout<<"-t: matrix type 0-general 1-symmetric 2-antisymmetric 3-sign symmetric 4- general-symmetric_min \n";
  cout<<"-s: matrix sing 0-general 1-positive entries 2-negative entries \n";
  cout<<"-f: export data on filename\n";
 }
